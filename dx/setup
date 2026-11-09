@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+npx skills add https://github.com/mattpocock/skills --skill grill-me -p -y
+npx skills update -p -y
